@@ -12,6 +12,17 @@ save the ones you'd like to meet, and connect to unlock their contact info.
 3. **Saved Profiles**: list of saved students, plus an empty state
 4. **My Profile (Edit)**: form for photo, interests, bio, contact method
 
+## Screens
+Snapshot exported from Figma (the Figma file above is always the latest version).
+
+| Explore | Profile Detail |
+|---|---|
+| ![Explore page](screens/1-explore.png) | ![Profile detail page](screens/2-profile-detail.png) |
+| **Saved** | **My Profile** |
+| ![Saved profiles page](screens/3-saved.png) | ![My profile edit page](screens/4-my-profile.png) |
+
+![Style guide and components](screens/0-style-guide.png)
+
 ## Requirements checklist
 - [x] At least 3 pages (4)
 - [x] Navbar and footer on every page (components)
